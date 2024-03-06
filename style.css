@@ -1,0 +1,34 @@
+body{
+    background-color:mediumpurple;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.s1{
+    width: 27%;
+    line-height: 20px;
+    white-space: pre-line;
+    font-size: 17px;
+}
+
+.heading{
+    font-size: 25px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color:lightcoral;
+    font-size: 20px;
+}
+
+canvas{
+    margin-top: 65px;
+    background-color:bisque;
+    border-radius: 5px;
+    box-shadow: 1px 1px 38px #000;
+}
